@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "garage.session.garagesale",
+        "description": "Garage Sale",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#garagesale-Display",
+        "navigationComponentName": "garage.session",
+        "intentSemanticObject": "garagesale",
+        "intentAction": "Display",
+        "html5ApplicationName": "garagesale",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "0e3cf856-92be-4f45-a1cb-66853878e81c"
+        ],
+        "contentPackages": [
+            "bada5e24-9318-404f-ba6a-65ed81f40705"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Garage Sale",
+        "subtitle": "Tutorial",
+        "searchKeywords": "Garage Sale,Tutorial",
+        "displayIconUrl": "sap-icon://cart-approval",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
